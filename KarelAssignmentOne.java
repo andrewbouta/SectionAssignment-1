@@ -1,5 +1,6 @@
 import stanford.karel.*;
 
+
 public class KarelAssignmentOne extends SuperKarel {
 
 	public void run() {
